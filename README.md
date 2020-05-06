@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/gagefredricks-ucsd/urban-tribble.svg?branch=master)](https://travis-ci.org/gagefredricks-ucsd/urban-tribble)
